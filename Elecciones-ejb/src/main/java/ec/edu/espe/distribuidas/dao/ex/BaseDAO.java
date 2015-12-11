@@ -11,7 +11,7 @@
  * 
  * Copyright 2008-2010 Gestorinc S.A. Todos los derechos reservados.
  */
-package com.persist.common.dao;
+package ec.edu.espe.distribuidas.dao.ex;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;

@@ -5,7 +5,7 @@
  */
 package ec.edu.espe.distribuidas.dao;
 
-import com.persist.common.dao.DefaultGenericDAOImple;
+import ec.edu.espe.distribuidas.dao.ex.DefaultGenericDAOImple;
 import ec.edu.espe.distribuidas.elecciones.modelo.PreguntaRespuesta;
 import ec.edu.espe.distribuidas.elecciones.modelo.PreguntaRespuestaPK;
 import ec.edu.espe.distribuidas.elecciones.modelo.Sede;

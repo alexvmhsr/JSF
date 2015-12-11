@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.persist.common.servicio;
+package ec.edu.espe.distribuidas.servicio;
 
-import com.persist.common.dao.Order;
+import ec.edu.espe.distribuidas.dao.ex.Order;
 import ec.edu.espe.distribuidas.dao.CandidatoDAO;
 import ec.edu.espe.distribuidas.elecciones.modelo.Candidato;
 import java.util.List;

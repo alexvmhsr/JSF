@@ -10,5 +10,5 @@
         <property name="URL" value="jdbc:mysql://localhost:3306/consejo_universitario?zeroDateTimeBehavior=convertToNull"/>
         <property name="driverClass" value="com.mysql.jdbc.Driver"/>
     </jdbc-connection-pool>
-    <jdbc-resource enabled="true" jndi-name="jdbc_conejouniversitario" object-type="user" pool-name="mysql_consejo_universitario_rootPool"/>
+    <jdbc-resource enabled="true" jndi-name="elecciones" object-type="user" pool-name="example_derbi"/>
 </resources>

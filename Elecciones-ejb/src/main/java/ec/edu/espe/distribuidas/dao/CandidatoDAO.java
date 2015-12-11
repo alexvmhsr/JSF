@@ -5,9 +5,8 @@
  */
 package ec.edu.espe.distribuidas.dao;
 
-import com.persist.common.dao.DefaultGenericDAOImple;
+import ec.edu.espe.distribuidas.dao.ex.DefaultGenericDAOImple;
 import ec.edu.espe.distribuidas.elecciones.modelo.Candidato;
-import ec.edu.espe.distribuidas.elecciones.modelo.Sede;
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
 

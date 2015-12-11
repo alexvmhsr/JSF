@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.persist.common.servicio;
+package ec.edu.espe.distribuidas.servicio;
 
-import com.persist.common.exception.ValidacionException;
+import ec.edu.espe.distribuidas.exception.ValidacionException;
 import ec.edu.espe.distribuidas.dao.SedeDAO;
 import ec.edu.espe.distribuidas.elecciones.modelo.Sede;
 import java.util.List;
